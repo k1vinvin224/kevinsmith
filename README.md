@@ -1,10 +1,19 @@
-# Termux-clang-21的OLLVM混淆插件为libOMVLL.so
+# Termux-clang-21.1.8的OLLVM混淆插件为libOMVLL.so
 
 使用Termux的clang编译出了libOMVLL.so混淆插件，源码被我删了，只有编译好的了。
 
 此版本适配Termux里的clang-21.1.8版本，应该是适配所有21版本的clang不要搭配错了，不然无法使用
 
 …………………………………………………………………………………………………………………………………
+
+
+先保存到Termux的home目录去，然后
+
+ls -la ollvm混淆编译器.sh libOMVLL.so
+
+chmod +x ollvm混淆编译器.sh libOMVLL.so
+
+还有个omvll_config_max.py是混淆配置也就是python脚本，你看看可以改一改
 
 
 使用方法:
