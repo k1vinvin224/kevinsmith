@@ -1,6 +1,6 @@
 # Termux-clang-21.1.8的OLLVM混淆插件为libOMVLL.so
 
-使用Termux的clang编译出了libOMVLL.so混淆插件，源码被我删了，只有编译好的了。
+使用Termux的clang编译出了libOMVLL.so混淆插件，源码https://github.com/open-obfuscator/o-mvll.git，开发者不放心的话，自行编译,小白自行选择
 
 此版本适配Termux里的clang-21.1.8版本，应该是适配所有21版本的clang不要搭配错了，不然无法使用
 
