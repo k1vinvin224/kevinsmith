@@ -2,7 +2,7 @@
 
 使用Termux的clang编译出了libOMVLL.so混淆插件
 
-源码https://github.com/open-obfuscator/o-mvll.git 
+源码:https://github.com/open-obfuscator/o-mvll.git 
 
 开发者不放心的话，自行编译,小白自行选择
 
